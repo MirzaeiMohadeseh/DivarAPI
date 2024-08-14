@@ -1,0 +1,6 @@
+@DivarAPI_HostAddress = https://localhost:7022
+
+
+GET {{DivarAPI_HostAddress}}/api/divar
+
+###

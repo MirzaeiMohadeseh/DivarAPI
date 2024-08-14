@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivarAPI", "DivarAPI\DivarAPI.csproj", "{B3429FE2-D4E5-4E52-A6AD-3773197DF447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3429FE2-D4E5-4E52-A6AD-3773197DF447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3429FE2-D4E5-4E52-A6AD-3773197DF447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3429FE2-D4E5-4E52-A6AD-3773197DF447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3429FE2-D4E5-4E52-A6AD-3773197DF447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BACF00DE-6099-47D4-8CC0-5620B11B8997}
+	EndGlobalSection
+EndGlobal
