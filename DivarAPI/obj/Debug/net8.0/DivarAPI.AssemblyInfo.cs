@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DivarAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+646fc9ce8fca5bc51ae9bd1790444cd64fe3274b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DivarAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DivarAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\M\\source\\repos\\DivarAPI\\DivarAPI\\DivarAPI.csproj": {}
+    "D:\\Git-Proj-3\\DivarAPI\\DivarAPI\\DivarAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\M\\source\\repos\\DivarAPI\\DivarAPI\\DivarAPI.csproj": {
+    "D:\\Git-Proj-3\\DivarAPI\\DivarAPI\\DivarAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\M\\source\\repos\\DivarAPI\\DivarAPI\\DivarAPI.csproj",
+        "projectUniqueName": "D:\\Git-Proj-3\\DivarAPI\\DivarAPI\\DivarAPI.csproj",
         "projectName": "DivarAPI",
-        "projectPath": "C:\\Users\\M\\source\\repos\\DivarAPI\\DivarAPI\\DivarAPI.csproj",
+        "projectPath": "D:\\Git-Proj-3\\DivarAPI\\DivarAPI\\DivarAPI.csproj",
         "packagesPath": "C:\\Users\\M\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\M\\source\\repos\\DivarAPI\\DivarAPI\\obj\\",
+        "outputPath": "D:\\Git-Proj-3\\DivarAPI\\DivarAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\M\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

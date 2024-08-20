@@ -13,6 +13,6 @@ namespace DivarAPI.Entities
         public string ImagePath { get; set; }= string.Empty;
         public string City { get; set; } = string.Empty;
 
-        public DateTime CreationDate { get; set; } = DateTime.Now;
+        public DateTime CreationDate { get; set; }
     }
 }

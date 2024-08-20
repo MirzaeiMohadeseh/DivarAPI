@@ -4,3 +4,12 @@
 GET {{DivarAPI_HostAddress}}/api/divar
 
 ###
+
+POST {{DivarAPI_HostAddress}}/api/divar
+Content-Type: application/json
+
+{
+  //Divar
+}
+
+###
